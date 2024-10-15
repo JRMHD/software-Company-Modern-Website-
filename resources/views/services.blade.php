@@ -7,77 +7,66 @@
 <head>
 
     <meta charset="UTF-8" />
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Our Service || Growim || HTML Template For Creative Digital Marketing Agency</title>
+    <title>Our Services | Inficorehub | Software Solutions, Web Development & Digital Marketing in Kenya</title>
 
     <!-- favicons Icons -->
-
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
 
+    <!-- Meta Description for SEO -->
     <meta name="description"
-        content="Growim is the perfect design HTML specially for digital marketing, creative web agencies, SEO marketing and web development agencies. We can also use this as a multipurpose, we have build it in a way so it suits almost all categories of businesses. GrowIm is built with HTML." />
+        content="Explore the wide range of services offered by Inficorehub, including web development, software solutions, digital marketing, social media management, and IT support. We deliver exceptional results to businesses across Kenya." />
+    <meta name="keywords"
+        content="Inficorehub services, web development Kenya, software solutions Kenya, digital marketing, IT support services, social media management, custom software development, SEO services, cloud solutions" />
+    <meta name="author" content="Inficorehub" />
+    <meta name="robots" content="index, follow" />
 
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Our Services | Inficorehub | Software & Digital Solutions" />
+    <meta property="og:description"
+        content="Learn more about the professional services Inficorehub offers, from software development to digital marketing and IT support, helping businesses thrive in Kenya's digital landscape." />
+    <meta property="og:image" content="assets/images/og-services-page.png" />
+    <meta property="og:url" content="https://www.inficorehub.com/services" />
+    <meta property="og:type" content="website" />
 
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Inficorehub Services | Web Development, Software Solutions & IT Support" />
+    <meta name="twitter:description"
+        content="Explore the full suite of Inficorehub services including software solutions, web development, and digital marketing. Transform your business with our expertise." />
+    <meta name="twitter:image" content="assets/images/twitter-services-page.png" />
 
-    <!-- fonts -->
-
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-
+    <!-- Fonts and Stylesheets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
         href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
         rel="stylesheet">
 
-
-
-
-
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-
     <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
-
     <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
-
     <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.pips.css" />
-
     <link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.css" />
-
     <link rel="stylesheet" href="assets/vendors/growim-icons/style.css" />
-
     <link rel="stylesheet" href="assets/vendors/slick/slick.css">
-
     <link rel="stylesheet" href="assets/vendors/jquery-flipster-master/jquery.flipster.min.css">
-
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
 
-
-
-    <!-- template styles -->
-
+    <!-- Template Styles -->
     <link rel="stylesheet" href="assets/css/growim.css" />
-
 </head>
+
 
 
 
@@ -101,512 +90,7 @@
 
     <div class="page-wrapper">
 
-        <header class="main-header main-header--five sticky-header sticky-header--normal">
-
-            <div class="container-fluid">
-
-                <div class="main-header--five__inner">
-
-                    <div class="topbar">
-
-                        <ul class="list-unstyled topbar__info">
-
-                            <li class="topbar__info__item">
-
-                                <span class="topbar__info__icon"><i class="flaticon-phone"></i></span>
-
-                                <a href="tel:+61086660112">+6108-666-0112</a>
-
-                            </li>
-
-                            <li class="topbar__info__item">
-
-                                <span class="topbar__info__icon"><i class="flaticon-email"></i></span>
-
-                                <a href="mailto:info@gmail.com">info@gmail.com</a>
-
-                            </li>
-
-                        </ul><!-- /.list-unstyled topbar-one__info -->
-
-                        <div class="topbar__social">
-
-                            <a href="https://facebook.com/">
-
-                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                                <span class="sr-only">Facebook</span>
-
-                            </a>
-
-                            <a href="https://twitter.com/">
-
-                                <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                                <span class="sr-only">Twitter</span>
-
-                            </a>
-
-                            <a href="https://instagram.com/">
-
-                                <i class="fab fa-instagram" aria-hidden="true"></i>
-
-                                <span class="sr-only">Instagram</span>
-
-                            </a>
-
-                            <a href="https://www.youtube.com/">
-
-                                <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                                <span class="sr-only">Youtube</span>
-
-                            </a>
-
-                        </div><!-- /.topbar__social -->
-
-                    </div>
-
-                    <div class="main-header__inner">
-
-                        <div class="main-header__logo">
-
-                            <a href="index.html">
-
-                                <img src="assets/images/logo-dark.png" alt="Growim HTML" width="160">
-
-                            </a>
-
-                        </div><!-- /.main-header__logo -->
-
-                        <nav class="main-header__nav main-menu">
-
-                            <ul class="main-menu__list">
-
-
-
-
-
-                                <li class="megamenu megamenu-clickable megamenu-clickable--toggler">
-
-                                    <a href="index.html">Demos</a>
-
-                                    <ul>
-
-                                        <li>
-
-                                            <div class="megamenu-popup">
-
-                                                <a href="#" class="megamenu-clickable--close"><span
-                                                        class="icon-close"></span></a>
-
-                                                <!-- /.megamenu-clickable--close -->
-
-                                                <div class="megamenu-popup__content">
-
-                                                    <div class="demo-one">
-
-                                                        <div class="container">
-
-                                                            <div class="row">
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-1.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index.html">Home Page 01</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-2.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-2.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-2-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-2.html">Home Page 02</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-3.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-3.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-3-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-3.html">Home Page 03</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-4.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-4.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-4-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-4.html">Home Page 04</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-5.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-5.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-5-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-5.html">Home Page 05</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                            </div><!-- /.row -->
-
-                                                        </div><!-- /.container -->
-
-                                                    </div><!-- /.demos-one -->
-
-                                                </div><!-- /.megamenu-popup__content -->
-
-                                            </div><!-- /.megamenu-popup -->
-
-                                        </li>
-
-                                    </ul>
-
-                                </li>
-
-
-
-
-
-                                <li>
-
-                                    <a href="about.html">About</a>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Pages</a>
-
-                                    <ul>
-
-                                        <li class="dropdown">
-
-                                            <a href="#">Portfolio Page</a>
-
-                                            <ul class="sub-menu">
-
-                                                <li><a href="portfolio.html">Our Portfolio</a></li>
-
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-
-                                            </ul>
-
-                                        </li>
-
-                                        <li class="dropdown">
-
-                                            <a href="#">Team Page</a>
-
-                                            <ul class="sub-menu">
-
-                                                <li><a href="team.html">Our Team</a></li>
-
-                                                <li><a href="team-details.html">Team Details</a></li>
-
-                                            </ul>
-
-                                        </li>
-
-                                        <li><a href="faq.html">FAQs</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Services</a>
-
-                                    <ul>
-
-                                        <li><a href="services.html">Service Page</a></li>
-
-                                        <li><a href="service-details.html">Service Details</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Shop</a>
-
-                                    <ul class="sub-menu">
-
-                                        <li><a href="products.html">Products Page</a></li>
-
-                                        <li><a href="product-details.html">Product details</a></li>
-
-                                        <li><a href="cart.html">Cart</a></li>
-
-                                        <li><a href="checkout.html">Checkout</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">News</a>
-
-                                    <ul class="sub-menu">
-
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-
-                                        <li><a href="blog-list-right.html">Blog Standar</a></li>
-
-                                        <li><a href="blog-details-right.html">Blog Details</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li>
-
-                                    <a href="contact.html">Contact</a>
-
-                                </li>
-
-                            </ul>
-
-                        </nav><!-- /.main-header__nav -->
-
-                        <div class="main-header__right">
-
-                            <div class="mobile-nav__btn mobile-nav__toggler">
-
-                                <span></span>
-
-                                <span></span>
-
-                                <span></span>
-
-                            </div><!-- /.mobile-nav__toggler -->
-
-                            <a href="#" class="search-toggler main-header__search">
-
-                                <i class="flaticon-search" aria-hidden="true"></i>
-
-                                <span class="sr-only">Search</span>
-
-                            </a><!-- /.search-toggler -->
-
-                            <a href="cart.html" class="main-header__cart">
-
-                                <i class="flaticon-cart" aria-hidden="true"></i>
-
-                                <span class="sr-only">Search</span>
-
-                            </a><!-- /.search-toggler -->
-
-                            <a href="contact.html" class="growim-btn main-header__btn">
-
-                                <span class="growim-btn__text">Work With Us</span>
-
-                            </a><!-- /.main-header__btn -->
-
-                        </div><!-- /.main-header__right -->
-
-                    </div><!-- /.main-header__inner -->
-
-                </div>
-
-            </div><!-- /.container-fluid -->
-
-        </header><!-- /.main-header -->
+        @include('header')
 
         <section class="page-header">
 
@@ -620,7 +104,7 @@
 
                 <ul class="growim-breadcrumb list-unstyled">
 
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="/">Home</a></li>
 
                     <li><span>Our Service</span></li>
 
@@ -633,1186 +117,415 @@
 
 
         <!-- Service Start -->
-
         <section class="service-six">
-
             <div class="container">
-
                 <div class="row gutter-y-30">
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
                                     <img src="assets/images/resources/service-6-1.jpg" alt="growim">
-
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-1.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-1.png" alt="SEO Services">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Link Building Optimization</a>
-
+                                    <a href="services">SEO Optimization</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Enhance your online presence with our tailored SEO strategies.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
-                                    <img src="assets/images/resources/service-6-2.jpg" alt="growim">
-
+                                    <img src="assets/images/resources/service-6-2.jpg" alt="Web Development">
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-2.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-2.png" alt="Web Development">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Web Development</a>
-
+                                    <a href="services">Web Development</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Custom websites built to enhance user experience and engagement.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
-                                    <img src="assets/images/resources/service-6-3.jpg" alt="growim">
-
+                                    <img src="assets/images/resources/service-6-3.jpg" alt="Digital Strategy">
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-3.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-3.png" alt="Digital Strategy">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Digital Strategy</a>
-
+                                    <a href="services">Digital Strategy</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Drive growth with effective digital marketing strategies tailored for you.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
-                                    <img src="assets/images/resources/service-6-4.jpg" alt="growim">
-
+                                    <img src="assets/images/resources/service-6-4.jpg" alt="Brand Design Identity">
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-4.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-4.png" alt="Brand Design Identity">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Brand Design Identity</a>
-
+                                    <a href="services">Brand Design Identity</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Create a strong brand identity that resonates with your audience.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
-                                    <img src="assets/images/resources/service-6-5.jpg" alt="growim">
-
+                                    <img src="assets/images/resources/service-6-5.jpg" alt="Social Media Marketing">
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-5.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-5.png" alt="Social Media Marketing">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Email Marketing</a>
-
+                                    <a href="services">Social Media Marketing</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Engage and grow your audience through effective social media strategies.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
                     <div class="col-lg-4 col-md-6">
-
                         <div class="service-six__item text-center">
-
                             <div class="service-six__item__wrapper">
-
                                 <div class="service-six__item__image">
-
-                                    <img src="assets/images/resources/service-6-6.jpg" alt="growim">
-
+                                    <img src="assets/images/resources/service-6-6.jpg" alt="Content Creation">
                                 </div>
-
                                 <div class="service-six__item__icon"
                                     style="background-image: url(assets/images/shapes/service-6-icon-bg.png);">
-
-                                    <img src="assets/images/shapes/service-6-6.png" alt="growim">
-
+                                    <img src="assets/images/shapes/service-6-6.png" alt="Content Creation">
                                 </div><!-- /.service-icon -->
-
                                 <h3 class="service-six__item__title">
-
-                                    <a href="service-details.html">Video Resches optimization</a>
-
+                                    <a href="services">Content Creation</a>
                                 </h3><!-- /.service-title -->
-
                                 <p class="service-six__item__text">
-
-                                    We can help you & routine audits to determine an SEO
-
+                                    Captivate your audience with high-quality, engaging content.
                                 </p><!-- /.service-text -->
-
-                                <a class="service-six__item__rm" href="service-details.html">
-
+                                <a class="service-six__item__rm" href="services">
                                     <svg viewBox="0 0 58 66" xmlns="http://www.w3.org/2000/svg">
-
                                         <path
                                             d="M25.46 1.07519C27.646 -0.206291 30.354 -0.206292 32.54 1.07519L54.54 13.9717C56.6833 15.2281 58 17.5263 58 20.0106V45.9894C58 48.4737 56.6833 50.7719 54.54 52.0283L32.54 64.9248C30.354 66.2063 27.646 66.2063 25.46 64.9248L3.45996 52.0283C1.31675 50.7719 0 48.4737 0 45.9894V20.0106C0 17.5263 1.31675 15.2281 3.45996 13.9717L25.46 1.07519Z" />
-
                                     </svg>
-
                                     <i class="flaticon-up-right-arrow"></i>
-
                                 </a>
-
                             </div>
-
                         </div><!-- /.service-card-one -->
-
                     </div><!-- /.item -->
 
-                </div>
-
-            </div>
-
+                </div><!-- /.row -->
+            </div><!-- /.container -->
         </section>
-
         <!-- Service End -->
+
 
 
 
         <section class="work-process-two"
             style="background-image: url(assets/images/shapes/work-process-two-bg-shape.png);">
-
             <div class="container">
-
                 <div class="work-process-two__top">
-
                     <div class="sec-title text-center">
-
-
-
                         <h6 class="sec-title__tagline">Work Process</h6><!-- /.sec-title__tagline -->
-
-
-
-                        <h3 class="sec-title__title">Our Working Pocess</h3><!-- /.sec-title__title -->
-
+                        <h3 class="sec-title__title">Our Working Process</h3><!-- /.sec-title__title -->
                     </div><!-- /.sec-title -->
-
                 </div>
 
                 <div class="row gutter-y-30">
-
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="00ms">
-
                         <div class="work-process-two__item">
-
                             <div class="work-process-two__item__icon">
-
                                 <i class="flaticon-service"></i>
-
-                                <div class="work-process-two__item__number"></div>
-
+                                <div class="work-process-two__item__number">01</div>
                             </div>
-
                             <h3 class="work-process-two__item__title">Choose A Service</h3>
-
                             <p class="work-process-two__item__text">
-
-                                In a free hour, when our power of choice is untrammeled and
-
+                                Explore our diverse range of digital services and select the one that fits your needs.
                             </p>
-
                         </div>
-
                     </div><!-- item -->
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="100ms">
-
                         <div class="work-process-two__item work-process-two__item--reverse">
-
                             <h3 class="work-process-two__item__title">Define Requirements</h3>
-
                             <p class="work-process-two__item__text">
-
-                                In a free hour, when our power of choice is untrammeled and
-
+                                Work closely with our team to outline your specific project requirements and goals.
                             </p>
-
                             <div class="work-process-two__item__icon">
-
                                 <i class="flaticon-define"></i>
-
-                                <div class="work-process-two__item__number"></div>
-
+                                <div class="work-process-two__item__number">02</div>
                             </div>
-
                         </div>
-
                     </div><!-- item -->
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-
                         <div class="work-process-two__item">
-
                             <div class="work-process-two__item__icon">
-
                                 <i class="flaticon-team"></i>
-
-                                <div class="work-process-two__item__number"></div>
-
+                                <div class="work-process-two__item__number">03</div>
                             </div>
-
                             <h3 class="work-process-two__item__title">Request A Meeting</h3>
-
                             <p class="work-process-two__item__text">
-
-                                In a free hour, when our power of choice is untrammeled and
-
+                                Schedule a consultation with our experts to discuss your project in detail.
                             </p>
-
                         </div>
-
                     </div><!-- item -->
 
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-
                         <div class="work-process-two__item work-process-two__item--reverse">
-
                             <h3 class="work-process-two__item__title">Final Solution</h3>
-
                             <p class="work-process-two__item__text">
-
-                                In a free hour, when our power of choice is untrammeled and
-
+                                Receive a tailored solution that meets your needs and drives your business forward.
                             </p>
-
                             <div class="work-process-two__item__icon">
-
                                 <i class="flaticon-solution"></i>
-
-                                <div class="work-process-two__item__number"></div>
-
+                                <div class="work-process-two__item__number">04</div>
                             </div>
-
                         </div>
-
                     </div><!-- item -->
-
                 </div>
 
                 <div class="work-process-two__border wow fadeInUp" data-wow-delay="400ms"
                     style="background-image: url(assets/images/shapes/work-process-two-border.png);"></div>
-
             </div>
-
         </section><!-- work-process-two -->
 
 
 
         <section class="testimonials-one testimonials-one--service-page">
-
             <div class="testimonials-one__shape-one"
                 style="background-image: url(assets/images/shapes/testimonials-1-shape-1.png);"></div>
-
             <div class="testimonials-one__shape-two"
                 style="background-image: url(assets/images/shapes/testimonials-1-shape-2.png);"></div>
-
             <div class="testimonials-one__shape-three"
                 style="background-image: url(assets/images/shapes/testimonials-1-shape-3.png);"></div>
-
             <div class="testimonials-one__shape-four"
                 style="background-image: url(assets/images/shapes/testimonials-1-shape-4.png);"></div>
 
             <div class="container">
-
                 <div class="row d-flex align-items-center">
-
                     <div class="col-lg-6 wow fadeInUp" data-wow-delay="100ms">
-
                         <div class="testimonials-one__image">
-
                             <div class="testimonials-one__image__bg"
                                 style="background-image: url(assets/images/shapes/testimonial-1-image-bg.png);"></div>
-
                             <img src="assets/images/resources/testimonial-1-image.png" alt="growim">
-
                         </div>
-
                     </div>
 
                     <div class="col-lg-6">
-
                         <div class="testimonials-one__area">
-
                             <div class="sec-title text-left">
-
-
-
                                 <h6 class="sec-title__tagline">Testimonials</h6><!-- /.sec-title__tagline -->
-
-
-
-                                <h3 class="sec-title__title">Our Services Solve Any</h3><!-- /.sec-title__title -->
-
+                                <h3 class="sec-title__title">What Our Clients Say</h3><!-- /.sec-title__title -->
                             </div><!-- /.sec-title -->
 
                             <div class="testimonials-one__carousel growim-owl__carousel owl-carousel"
                                 data-owl-options='{
-
-							"items": 1,
-
-							"margin": 0,
-
-							"loop": false,
-
-							"smartSpeed": 700,
-
-							"nav": false,
-
-							"navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
-
-							"dots": false,
-
-							"autoplay": true
-
-						}'>
-
+                        "items": 1,
+                        "margin": 0,
+                        "loop": false,
+                        "smartSpeed": 700,
+                        "nav": false,
+                        "navText": ["<span class=\"fa fa-angle-left\"></span>","<span class=\"fa fa-angle-right\"></span>"],
+                        "dots": false,
+                        "autoplay": true
+                    }'>
                                 <div class="item">
-
                                     <div class="testimonials-one__item">
-
                                         <div class="testimonials-one__item__rating">
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                         </div><!-- /.testimonials-one__item__rating -->
 
                                         <div class="testimonials-one__item__content">
-
-                                            Sed ante elit, fringilla vitae laoreet sit amet, tempus et libero. Lorem
-                                            ipsum dolor sit amet,
-
-                                            consectetur adipiscing elit. Fusce eget quam quis turpis lacinia euismod
-                                            cursus in arcu.
-
-                                            Integer a purus dolor. Pellentesque finibus ut erat in sagittis. Sed semper
-                                            dignissim
-
+                                            "Inficorehub transformed our business! Their dedication and expertise were
+                                            evident from day one. Highly recommend!"
                                         </div><!-- /.testimonials-one__item__content -->
 
                                         <div class="testimonials-one__item__author">
-
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="growim">
-
-                                            <h3 class="testimonials-one__item__name">
-
-                                                Ronald Richards
-
-                                            </h3>
-
-                                            <p class="testimonials-one__item__designation">Co, Founder</p>
-
+                                            {{-- <img src="assets/images/resources/testi-1-1.jpg" alt="growim"> --}}
+                                            <h3 class="testimonials-one__item__name">Ronald Richards</h3>
+                                            <p class="testimonials-one__item__designation">Co-Founder, Tech Innovations
+                                            </p>
                                         </div><!-- /.testimonials-one__item__author -->
 
                                         <div class="testimonials-one__item__quote"><i class="flaticon-quote"></i>
                                         </div><!-- /.testimonials-one__item__quote -->
-
                                     </div>
-
                                 </div><!-- item -->
 
                                 <div class="item">
-
                                     <div class="testimonials-one__item">
-
                                         <div class="testimonials-one__item__rating">
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                             <i class="flaticon-star"></i>
-
                                         </div><!-- /.testimonials-one__item__rating -->
 
                                         <div class="testimonials-one__item__content">
-
-                                            Sed ante elit, fringilla vitae laoreet sit amet, tempus et libero. Lorem
-                                            ipsum dolor sit amet,
-
-                                            consectetur adipiscing elit. Fusce eget quam quis turpis lacinia euismod
-                                            cursus in arcu.
-
-                                            Integer a purus dolor. Pellentesque finibus ut erat in sagittis. Sed semper
-                                            dignissim
-
+                                            "The team at Inficorehub exceeded our expectations. Their attention to
+                                            detail and customer service are unmatched!"
                                         </div><!-- /.testimonials-one__item__content -->
 
                                         <div class="testimonials-one__item__author">
-
-                                            <img src="assets/images/resources/testi-1-1.jpg" alt="growim">
-
-                                            <h3 class="testimonials-one__item__name">
-
-                                                Ronald Richards
-
-                                            </h3>
-
-                                            <p class="testimonials-one__item__designation">Co, Founder</p>
-
+                                            {{-- <img src="assets/images/resources/testi-1-2.jpg" alt="growim"> --}}
+                                            <h3 class="testimonials-one__item__name">Emma Watson</h3>
+                                            <p class="testimonials-one__item__designation">CEO, Green Solutions</p>
                                         </div><!-- /.testimonials-one__item__author -->
 
                                         <div class="testimonials-one__item__quote"><i class="flaticon-quote"></i>
                                         </div><!-- /.testimonials-one__item__quote -->
-
                                     </div>
-
                                 </div><!-- item -->
 
                             </div><!-- /.testimonials-one__carousel -->
-
                         </div>
-
                     </div>
-
                 </div>
-
             </div><!-- /.container -->
-
         </section><!-- /.testimonials-one -->
 
 
+        @include('footer')
 
-        <section class="mail-section mail-section--inner">
+        <!-- Sidebar One Start -->
 
-            <div class="container">
 
-                <div class="mail-section__inner  wow fadeInUp">
 
-                    <div class="mail-section__shape-one"
-                        style="background-image: url(assets/images/shapes/mail-shape-1.png);"></div>
+        <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
 
-                    <div class="mail-section__shape-two"
-                        style="background-image: url(assets/images/shapes/mail-shape-2.png);"></div>
+            <span class="scroll-to-top__text">back top</span>
 
-                    <div class="mail-section__shape-three"
-                        style="background-image: url(assets/images/shapes/mail-shape-3.png);"></div>
+            <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
 
-                    <div class="mail-section__shape-four"
-                        style="background-image: url(assets/images/shapes/mail-shape-4.png);"></div>
+        </a>
 
-                    <div class="row">
 
-                        <div class="col-lg-5 col-xl-6">
 
-                            <div class="mail-section__image">
 
-                                <img src="assets/images/resources/mail-1-1.png" alt="Growim">
 
-                            </div>
+        <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
 
-                        </div>
+        <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-                        <div class="col-lg-7 col-xl-6">
+        <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
 
-                            <div class="mail-section__form">
+        <script src="assets/vendors/jarallax/jarallax.min.js"></script>
 
-                                <h3 class="mail-section__form__title">Subscribe To Our Newsletter!</h3>
+        <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
 
-                                <form action="#" data-url="MAILCHIMP_FORM_URL" class="mc-form">
+        <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
 
-                                    <input type="text" name="EMAIL" placeholder="Enter Email Address">
+        <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
 
-                                    <button type="submit" class="flaticon-paper-plan">
+        <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
 
-                                        <span class="sr-only">submit</span><!-- /.sr-only -->
+        <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
 
-                                    </button>
+        <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
 
-                                </form><!-- /. mc-form -->
+        <script src="assets/vendors/nouislider/nouislider.min.js"></script>
 
-                                <div class="mc-form__response"></div><!-- /.mc-form__response -->
+        <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
 
-                            </div>
+        <script src="assets/vendors/wnumb/wNumb.min.js"></script>
 
-                        </div>
+        <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
 
-                    </div>
+        <script src="assets/vendors/wow/wow.js"></script>
 
-                </div>
+        <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
 
-            </div>
+        <script src="assets/vendors/isotope/isotope.js"></script>
 
-        </section>
+        <script src="assets/vendors/slick/slick.min.js"></script>
 
-        <footer class="main-footer main-footer--home-five">
+        <script src="assets/vendors/jquery-flipster-master/jquery.flipster.min.js"></script>
 
-            <div class="main-footer__bg" style="background-image: url(assets/images/shapes/footer-bg-1-1.png);"></div>
+        <script src="assets/vendors/countdown/countdown.min.js"></script>
 
-            <div class="main-footer__shape" style="background-image: url(assets/images/shapes/footer-1-shape-1.png);">
-            </div>
+        <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
 
-            <!-- /.main-footer__bg -->
+        <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
 
-            <div class="main-footer__top">
+        <!-- template js -->
 
-                <div class="container">
-
-                    <div class="row">
-
-                        <div class="col-md-6 col-xl-4">
-
-                            <div class="footer-widget footer-widget--about">
-
-                                <a href="index.html" class="footer-widget__logo">
-
-                                    <img src="assets/images/logo-light.png" width="160"
-                                        alt="Growim HTML Template">
-
-                                </a>
-
-                                <p class="footer-widget__text">
-
-                                    Nullam interdum libero vitae pretium aliquam donec nibh purus laoreet in ullamcorper
-                                    vel malesuada sit amet enim.
-
-                                </p>
-
-                                <a class="growim-btn growim-btn--white" href="contact.html">
-
-                                    <span class="growim-btn__text">Contact Us</span>
-
-                                </a>
-
-                                <div class="footer-widget__social">
-
-                                    <p class="footer-widget__social__text">Follow on</p>
-
-                                    <a href="https://facebook.com/">
-
-                                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Facebook</span>
-
-                                    </a>
-
-                                    <a href="https://twitter.com/">
-
-                                        <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Twitter</span>
-
-                                    </a>
-
-                                    <a href="https://www.linkedin.com/">
-
-                                        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Linkedin</span>
-
-                                    </a>
-
-                                    <a href="https://youtube.com/">
-
-                                        <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Youtube</span>
-
-                                    </a>
-
-                                </div><!-- /.footer-widget__social -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-2">
-
-                            <div class="footer-widget">
-
-                                <h2 class="footer-widget__title">Quick Link</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__links">
-
-                                    <li><a href="about.html">Growim About</a></li>
-
-                                    <li><a href="contact.html">Contact Us</a></li>
-
-                                    <li><a href="blog-list-right.html">Blog & News</a></li>
-
-                                    <li><a href="faq.html">FAQ’S</a></li>
-
-                                    <li><a href="login.html">Login / Register</a></li>
-
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-2">
-
-                            <div class="footer-widget footer-widget--links">
-
-                                <h2 class="footer-widget__title">our services</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__links">
-
-                                    <li><a href="about.html">digital marketing</a></li>
-
-                                    <li><a href="contact.html">web development</a></li>
-
-                                    <li><a href="blog-list-right.html">SEO optimized</a></li>
-
-                                    <li><a href="faq.html">App Development</a></li>
-
-                                    <li><a href="login.html">Email Marketing</a></li>
-
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-4">
-
-                            <div class="footer-widget footer-widget--contact">
-
-                                <h2 class="footer-widget__title">contact us</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__info">
-
-                                    <li><i class="flaticon-pin"></i>Gregory Cartwright, 4059 Carling Avenue,
-                                        Ugglebarnby YO22 3NJ</li>
-
-                                    <li><i class="flaticon-phone"></i><a href="tel:+61086660112">+6108-666-0112</a>
-                                    </li>
-
-                                    <li><i class="flaticon-email"></i><a
-                                            href="mailto:info@gmail.com">info@gmail.com</a></li>
-
-                                </ul><!-- /.list-unstyled -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                    </div><!-- /.row -->
-
-                </div><!-- /.container -->
-
-            </div><!-- /.main-footer__top -->
-
-            <div class="main-footer__bottom">
-
-                <div class="container">
-
-                    <div class="main-footer__bottom__inner">
-
-                        <p class="main-footer__copyright">
-
-                            &copy; Copyright <span class="dynamic-year"></span> by Growim HTML Template.
-
-                        </p>
-
-                        <ul class="main-footer__bottom__menu">
-
-                            <li><a href="checkout.html">Terms & Conditions</a></li>
-
-                            <li><a href="contact.html">Privacy Policy</a></li>
-
-                        </ul>
-
-                    </div><!-- /.main-footer__inner -->
-
-                </div><!-- /.container -->
-
-            </div><!-- /.main-footer__bottom -->
-
-        </footer><!-- /.main-footer -->
-
-
-
-    </div><!-- /.page-wrapper -->
-
-
-
-
-
-    <div class="mobile-nav__wrapper">
-
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-
-        <!-- /.mobile-nav__overlay -->
-
-        <div class="mobile-nav__content">
-
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
-
-
-
-            <div class="logo-box">
-
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155"
-                        alt="" /></a>
-
-            </div>
-
-            <!-- /.logo-box -->
-
-            <div class="mobile-nav__container"></div>
-
-            <!-- /.mobile-nav__container -->
-
-
-
-            <ul class="mobile-nav__contact list-unstyled">
-
-                <li>
-
-                    <i class="fa fa-envelope"></i>
-
-                    <a href="mailto:needhelp@growim.com">needhelp@growim.com</a>
-
-                </li>
-
-                <li>
-
-                    <i class="fa fa-phone-alt"></i>
-
-                    <a href="tel:666-888-0000">666 888 0000</a>
-
-                </li>
-
-            </ul><!-- /.mobile-nav__contact -->
-
-            <div class="mobile-nav__social">
-
-                <a href="https://facebook.com/">
-
-                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                    <span class="sr-only">Facebook</span>
-
-                </a>
-
-                <a href="https://twitter.com/">
-
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                    <span class="sr-only">Twitter</span>
-
-                </a>
-
-                <a href="https://www.linkedin.com/">
-
-                    <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                    <span class="sr-only">Linkedin</span>
-
-                </a>
-
-                <a href="https://youtube.com/">
-
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                    <span class="sr-only">Youtube</span>
-
-                </a>
-
-            </div><!-- /.mobile-nav__social -->
-
-        </div>
-
-        <!-- /.mobile-nav__content -->
-
-    </div>
-
-    <!-- /.mobile-nav__wrapper -->
-
-    <div class="search-popup">
-
-        <div class="search-popup__overlay search-toggler"></div>
-
-        <!-- /.search-popup__overlay -->
-
-        <div class="search-popup__content">
-
-            <form role="search" method="get" class="search-popup__form" action="#">
-
-                <input type="text" id="search" placeholder="Search Here..." />
-
-                <button type="submit" aria-label="search submit" class="growim-btn">
-
-                    <span class="growim-btn__text"><i class="flaticon-search"></i></span>
-
-                </button>
-
-            </form>
-
-        </div>
-
-        <!-- /.search-popup__content -->
-
-    </div>
-
-    <!-- /.search-popup -->
-
-    <!-- Sidebar One Start -->
-
-    <aside class="sidebar-one">
-
-        <div class="sidebar-one__overlay"></div><!-- /.siderbar-ovarlay -->
-
-        <div class="sidebar-one__content">
-
-            <div class="sidebar-one__close"><i class="flaticon-close"></i></div><!-- /.siderbar-close -->
-
-            <div class="sidebar-one__logo">
-
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-2-light.png"
-                        alt="growim" width="160"></a>
-
-            </div><!-- /.sidebar-one__logo-box -->
-
-            <p class="sidebar-one__text">
-
-                Mauris ut enim sit amet lacus ornare ullamcor. Praesent placerat nequ
-
-                puru rhoncu tincidunt odio ultrices. Sed feugiat feugiat felis.
-
-            </p>
-
-            <h4 class="sidebar-one__title">Contact Info:</h4>
-
-            <ul class="sidebar-one__info">
-
-                <li>
-
-                    <span class="fas fa-map-marker-alt"></span>
-
-                    85 Ketch Harbour RoadBensalem, PA 19020
-
-                </li>
-
-                <li>
-
-                    <span class="fas fa-envelope"></span>
-
-                    <a href="mailto:needhelp@company.com">needhelp@company.com</a>
-
-                </li>
-
-                <li>
-
-                    <span class="fas fa-phone-alt"></span>
-
-                    <a href="tel:09969569535">099 695 695 35</a>
-
-                </li>
-
-            </ul>
-
-            <div class="sidebar-one__social">
-
-                <a href="https://facebook.com/">
-
-                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                    <span class="sr-only">Facebook</span>
-
-                </a>
-
-                <a href="https://twitter.com/">
-
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                    <span class="sr-only">Twitter</span>
-
-                </a>
-
-                <a href="https://www.linkedin.com/">
-
-                    <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                    <span class="sr-only">Linkedin</span>
-
-                </a>
-
-                <a href="https://youtube.com/">
-
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                    <span class="sr-only">Youtube</span>
-
-                </a>
-
-            </div><!-- /sidebar-one__socila -->
-
-            <h4 class="sidebar-one__title">Newsletter:</h4>
-
-            <form action="#" data-url="MAILCHIMP_FORM_URL" class="sidebar-one__newsletter mc-form">
-
-                <input type="text" name="EMAIL" placeholder="Email address">
-
-                <button type="submit" class="flaticon-paper-plan">
-
-                    <span class="sr-only">submit</span><!-- /.sr-only -->
-
-                </button>
-
-            </form><!-- /.footer-widget__newsletter mc-form -->
-
-        </div><!-- /.sidebar__content -->
-
-    </aside>
-
-    <!-- Sidebar One Start -->
-
-
-
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
-
-        <span class="scroll-to-top__text">back top</span>
-
-        <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
-
-    </a>
-
-
-
-
-
-    <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
-
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
-
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-
-    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-
-    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-
-    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
-
-    <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
-
-    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-
-    <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
-
-    <script src="assets/vendors/wow/wow.js"></script>
-
-    <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
-
-    <script src="assets/vendors/isotope/isotope.js"></script>
-
-    <script src="assets/vendors/slick/slick.min.js"></script>
-
-    <script src="assets/vendors/jquery-flipster-master/jquery.flipster.min.js"></script>
-
-    <script src="assets/vendors/countdown/countdown.min.js"></script>
-
-    <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
-
-    <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
-
-    <!-- template js -->
-
-    <script src="assets/js/growim.js"></script>
+        <script src="assets/js/growim.js"></script>
 
 </body>
 

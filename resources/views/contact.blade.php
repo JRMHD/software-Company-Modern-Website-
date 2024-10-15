@@ -7,77 +7,69 @@
 <head>
 
     <meta charset="UTF-8" />
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <title>Contact Us || Growim || HTML Template For Creative Digital Marketing Agency</title>
+    <title>Contact Us | Inficorehub | Get in Touch for Web Development, IT Solutions & Digital Marketing</title>
 
     <!-- favicons Icons -->
-
     <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicons/apple-touch-icon.png" />
-
     <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicons/favicon-32x32.png" />
-
     <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicons/favicon-16x16.png" />
-
     <link rel="manifest" href="assets/images/favicons/site.webmanifest" />
 
+    <!-- Meta Description for SEO -->
     <meta name="description"
-        content="Growim is the perfect design HTML specially for digital marketing, creative web agencies, SEO marketing and web development agencies. We can also use this as a multipurpose, we have build it in a way so it suits almost all categories of businesses. GrowIm is built with HTML." />
+        content="Contact Inficorehub for all your web development, software solutions, digital marketing, and IT support needs. We're here to help your business thrive. Reach out today to discuss your project requirements." />
+    <meta name="keywords"
+        content="Contact Inficorehub, web development, digital marketing agency Kenya, software solutions, IT support, customer service, project inquiry, business inquiries, Inficorehub phone, Inficorehub email" />
+    <meta name="author" content="Inficorehub" />
+    <meta name="robots" content="index, follow" />
 
+    <!-- Open Graph / Facebook -->
+    <meta property="og:title" content="Contact Inficorehub | Web Development, Digital Marketing, IT Support" />
+    <meta property="og:description"
+        content="Get in touch with Inficorehub for all your web development, software, and digital marketing needs. Let’s discuss how we can help grow your business." />
+    <meta property="og:image" content="assets/images/og-contact-page.png" />
+    <meta property="og:url" content="https://www.inficorehub.com/contact" />
+    <meta property="og:type" content="website" />
 
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Contact Us | Inficorehub | Reach Out for Digital Solutions" />
+    <meta name="twitter:description"
+        content="Contact Inficorehub for expert web development, digital marketing, and IT solutions. We’re here to support your business growth." />
+    <meta name="twitter:image" content="assets/images/twitter-contact-page.png" />
 
-    <!-- fonts -->
-
-    <link rel="preconnect" href="https://fonts.googleapis.com/">
-
-    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-
+    <!-- Fonts and Stylesheets -->
+    <link rel="preconnect" href="https://fonts.googleapis.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
     <link
         href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&amp;display=swap"
         rel="stylesheet">
 
-
-
-
-
     <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/bootstrap-select/bootstrap-select.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/animate/animate.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/fontawesome/css/all.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/jquery-ui/jquery-ui.css" />
-
     <link rel="stylesheet" href="assets/vendors/jarallax/jarallax.css" />
-
     <link rel="stylesheet" href="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.css" />
-
     <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/nouislider/nouislider.pips.css" />
-
     <link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.css" />
-
+    <link rel="stylesheet" href="assets/vendors/tiny-slider/tiny-slider.css" />
     <link rel="stylesheet" href="assets/vendors/growim-icons/style.css" />
-
-    <link rel="stylesheet" href="assets/vendors/slick/slick.css">
-
-    <link rel="stylesheet" href="assets/vendors/jquery-flipster-master/jquery.flipster.min.css">
-
+    <link rel="stylesheet" href="assets/vendors/slick/slick.css" />
+    <link rel="stylesheet" href="assets/vendors/jquery-flipster-master/jquery.flipster.min.css" />
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.carousel.min.css" />
-
     <link rel="stylesheet" href="assets/vendors/owl-carousel/css/owl.theme.default.min.css" />
 
-
-
-    <!-- template styles -->
-
+    <!-- Template Styles -->
     <link rel="stylesheet" href="assets/css/growim.css" />
 
 </head>
+
+
 
 
 
@@ -100,513 +92,7 @@
     <!-- /.preloader -->
 
     <div class="page-wrapper">
-
-        <header class="main-header main-header--five sticky-header sticky-header--normal">
-
-            <div class="container-fluid">
-
-                <div class="main-header--five__inner">
-
-                    <div class="topbar">
-
-                        <ul class="list-unstyled topbar__info">
-
-                            <li class="topbar__info__item">
-
-                                <span class="topbar__info__icon"><i class="flaticon-phone"></i></span>
-
-                                <a href="tel:+61086660112">+6108-666-0112</a>
-
-                            </li>
-
-                            <li class="topbar__info__item">
-
-                                <span class="topbar__info__icon"><i class="flaticon-email"></i></span>
-
-                                <a href="mailto:info@gmail.com">info@gmail.com</a>
-
-                            </li>
-
-                        </ul><!-- /.list-unstyled topbar-one__info -->
-
-                        <div class="topbar__social">
-
-                            <a href="https://facebook.com/">
-
-                                <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                                <span class="sr-only">Facebook</span>
-
-                            </a>
-
-                            <a href="https://twitter.com/">
-
-                                <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                                <span class="sr-only">Twitter</span>
-
-                            </a>
-
-                            <a href="https://instagram.com/">
-
-                                <i class="fab fa-instagram" aria-hidden="true"></i>
-
-                                <span class="sr-only">Instagram</span>
-
-                            </a>
-
-                            <a href="https://www.youtube.com/">
-
-                                <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                                <span class="sr-only">Youtube</span>
-
-                            </a>
-
-                        </div><!-- /.topbar__social -->
-
-                    </div>
-
-                    <div class="main-header__inner">
-
-                        <div class="main-header__logo">
-
-                            <a href="index.html">
-
-                                <img src="assets/images/logo-dark.png" alt="Growim HTML" width="160">
-
-                            </a>
-
-                        </div><!-- /.main-header__logo -->
-
-                        <nav class="main-header__nav main-menu">
-
-                            <ul class="main-menu__list">
-
-
-
-
-
-                                <li class="megamenu megamenu-clickable megamenu-clickable--toggler">
-
-                                    <a href="index.html">Demos</a>
-
-                                    <ul>
-
-                                        <li>
-
-                                            <div class="megamenu-popup">
-
-                                                <a href="#" class="megamenu-clickable--close"><span
-                                                        class="icon-close"></span></a>
-
-                                                <!-- /.megamenu-clickable--close -->
-
-                                                <div class="megamenu-popup__content">
-
-                                                    <div class="demo-one">
-
-                                                        <div class="container">
-
-                                                            <div class="row">
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-1.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index.html">Home Page 01</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-2.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-2.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-2-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-2.html">Home Page 02</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-3.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-3.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-3-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-3.html">Home Page 03</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-4.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-4.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-4-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-4.html">Home Page 04</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                                <div class="col-md-6 col-lg-4">
-
-                                                                    <div class="demo-one__card">
-
-                                                                        <div class="demo-one__image">
-
-                                                                            <img src="assets/images/growim-landing/home-5.jpg"
-                                                                                alt="growim">
-
-                                                                            <div class="demo-one__btns">
-
-                                                                                <a href="index-5.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span
-                                                                                        class="growim-btn__text">Multi
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                                <a href="index-5-one-page.html"
-                                                                                    class="growim-btn demo-one__btn">
-
-                                                                                    <span class="growim-btn__text">One
-                                                                                        Page</span>
-
-                                                                                </a><!-- /.thm-btn demo-one__btn -->
-
-                                                                            </div><!-- /.demo-one__btns -->
-
-                                                                        </div><!-- /.demo-one__image -->
-
-                                                                        <div class="demo-one__content">
-
-                                                                            <h3 class="demo-one__title">
-
-                                                                                <a href="index-5.html">Home Page 05</a>
-
-                                                                            </h3><!-- /.demo-one__title -->
-
-                                                                        </div><!-- /.demo-one__content -->
-
-                                                                    </div><!-- /.demo-one__card -->
-
-                                                                </div><!-- /.col-md-6 col-lg-3 -->
-
-                                                            </div><!-- /.row -->
-
-                                                        </div><!-- /.container -->
-
-                                                    </div><!-- /.demos-one -->
-
-                                                </div><!-- /.megamenu-popup__content -->
-
-                                            </div><!-- /.megamenu-popup -->
-
-                                        </li>
-
-                                    </ul>
-
-                                </li>
-
-
-
-
-
-                                <li>
-
-                                    <a href="about.html">About</a>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Pages</a>
-
-                                    <ul>
-
-                                        <li class="dropdown">
-
-                                            <a href="#">Portfolio Page</a>
-
-                                            <ul class="sub-menu">
-
-                                                <li><a href="portfolio.html">Our Portfolio</a></li>
-
-                                                <li><a href="portfolio-details.html">Portfolio Details</a></li>
-
-                                            </ul>
-
-                                        </li>
-
-                                        <li class="dropdown">
-
-                                            <a href="#">Team Page</a>
-
-                                            <ul class="sub-menu">
-
-                                                <li><a href="team.html">Our Team</a></li>
-
-                                                <li><a href="team-details.html">Team Details</a></li>
-
-                                            </ul>
-
-                                        </li>
-
-                                        <li><a href="faq.html">FAQs</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Services</a>
-
-                                    <ul>
-
-                                        <li><a href="services.html">Service Page</a></li>
-
-                                        <li><a href="service-details.html">Service Details</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">Shop</a>
-
-                                    <ul class="sub-menu">
-
-                                        <li><a href="products.html">Products Page</a></li>
-
-                                        <li><a href="product-details.html">Product details</a></li>
-
-                                        <li><a href="cart.html">Cart</a></li>
-
-                                        <li><a href="checkout.html">Checkout</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li class="dropdown">
-
-                                    <a href="#">News</a>
-
-                                    <ul class="sub-menu">
-
-                                        <li><a href="blog-grid.html">Blog Grid</a></li>
-
-                                        <li><a href="blog-list-right.html">Blog Standar</a></li>
-
-                                        <li><a href="blog-details-right.html">Blog Details</a></li>
-
-                                    </ul>
-
-                                </li>
-
-                                <li>
-
-                                    <a href="contact.html">Contact</a>
-
-                                </li>
-
-                            </ul>
-
-                        </nav><!-- /.main-header__nav -->
-
-                        <div class="main-header__right">
-
-                            <div class="mobile-nav__btn mobile-nav__toggler">
-
-                                <span></span>
-
-                                <span></span>
-
-                                <span></span>
-
-                            </div><!-- /.mobile-nav__toggler -->
-
-                            <a href="#" class="search-toggler main-header__search">
-
-                                <i class="flaticon-search" aria-hidden="true"></i>
-
-                                <span class="sr-only">Search</span>
-
-                            </a><!-- /.search-toggler -->
-
-                            <a href="cart.html" class="main-header__cart">
-
-                                <i class="flaticon-cart" aria-hidden="true"></i>
-
-                                <span class="sr-only">Search</span>
-
-                            </a><!-- /.search-toggler -->
-
-                            <a href="contact.html" class="growim-btn main-header__btn">
-
-                                <span class="growim-btn__text">Work With Us</span>
-
-                            </a><!-- /.main-header__btn -->
-
-                        </div><!-- /.main-header__right -->
-
-                    </div><!-- /.main-header__inner -->
-
-                </div>
-
-            </div><!-- /.container-fluid -->
-
-        </header><!-- /.main-header -->
+        @include('header')
 
         <section class="page-header">
 
@@ -620,7 +106,7 @@
 
                 <ul class="growim-breadcrumb list-unstyled">
 
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="/">Home</a></li>
 
                     <li><span>Contact Us</span></li>
 
@@ -633,103 +119,187 @@
 
 
         <section class="contact-two">
-
             <div class="container">
-
                 <div class="row">
-
                     <div class="col-lg-6">
-
                         <div class="contact-two__image">
-
                             <img src="assets/images/shapes/contact-page-1.png" alt="growim">
-
                             <div class="contact-two__image__video">
-
                                 <img src="assets/images/resources/contact-page-video.jpg" alt="growim">
-
-                                <a href="https://www.youtube.com/watch?v=h9MbznbxlLc" class="video-popup">
-
+                                <a href="https://youtu.be/f5uECY3WxV8?feature=shared" class="video-popup">
                                     <span class="ripple"></span>
-
                                     <i class="fa fa-play"></i>
-
                                 </a>
-
                             </div>
-
                         </div>
-
                     </div><!-- /.col-lg-6 -->
 
                     <div class="col-lg-6">
-
                         <div class="contact-two__content">
-
                             <h3 class="contact-two__title">We'll respond to you in an hour.</h3>
+                            <p class="contact-two__text">We Value You as a Customer</p>
 
-                            <p class="contact-two__text">Neque porro est qui dolorem ipsum quia quaed inventor
-                                veritatis et</p>
+                            <style>
+                                .loader-container {
+                                    display: none;
+                                    position: fixed;
+                                    top: 0;
+                                    left: 0;
+                                    width: 100%;
+                                    height: 100%;
+                                    background-color: rgba(0, 0, 0, 0.5);
+                                    z-index: 9999;
+                                    justify-content: center;
+                                    align-items: center;
+                                }
 
-                            <form class="contact-two__form contact-form-validated form-one wow fadeInUp"
-                                data-wow-duration="1500ms"
-                                action="https://jthemes.net/themes/html/growim/inc/sendemail.php">
+                                .loader {
+                                    border: 5px solid #f3f3f3;
+                                    border-top: 5px solid #3498db;
+                                    border-radius: 50%;
+                                    width: 50px;
+                                    height: 50px;
+                                    animation: spin 1s linear infinite;
+                                }
 
-                                <h4 class="contact-two__form__title">Get In touch</h4>
+                                @keyframes spin {
+                                    0% {
+                                        transform: rotate(0deg);
+                                    }
 
+                                    100% {
+                                        transform: rotate(360deg);
+                                    }
+                                }
+
+                                .message {
+                                    padding: 10px;
+                                    margin-top: 20px;
+                                    border-radius: 5px;
+                                    display: none;
+                                }
+
+                                .success {
+                                    background-color: #d4edda;
+                                    color: #155724;
+                                }
+
+                                .error {
+                                    background-color: #f8d7da;
+                                    color: #721c24;
+                                }
+                            </style>
+
+                            <form id="contactForm"
+                                class="contact-two__form contact-form-validated form-one wow fadeInUp"
+                                data-wow-duration="1500ms">
+                                @csrf
+                                <h4 class="contact-two__form__title">Get In Touch</h4>
                                 <div class="form-one__group">
-
                                     <div class="form-one__control">
-
-                                        <input type="text" name="name" placeholder="Name">
-
-                                    </div><!-- /.form-one__control -->
-
+                                        <input type="text" name="name" placeholder="Name" required>
+                                    </div>
                                     <div class="form-one__control">
-
-                                        <input type="email" name="email" placeholder="Email Address">
-
-                                    </div><!-- /.form-one__control -->
-
+                                        <input type="email" name="email" placeholder="Email Address" required>
+                                    </div>
+                                    <div class="form-one__control">
+                                        <input type="text" name="phone" placeholder="Phone Number" required>
+                                    </div>
+                                    <div class="form-one__control">
+                                        <input type="text" name="subject" placeholder="Subject" required>
+                                    </div>
                                     <div class="form-one__control form-one__control--full">
-
-                                        <textarea name="message" placeholder="Write Message . . ."></textarea><!-- /# -->
-
-                                    </div><!-- /.form-one__control -->
-
+                                        <textarea name="message" placeholder="Write Message . . ." required></textarea>
+                                    </div>
                                     <div class="form-one__control form-one__control--full">
-
-                                        <button class="growim-btn" type="submit"><span class="growim-btn__text">Send
-                                                Message</span><span class="growim-btn__icon"><i
-                                                    class="flaticon-up-right-arrow"></i></span></button>
-
-                                    </div><!-- /.form-one__control -->
-
-                                </div><!-- /.form-one__group -->
-
+                                        <button class="growim-btn" type="submit">
+                                            <span class="growim-btn__text">Send Message</span>
+                                            <span class="growim-btn__icon"><i
+                                                    class="flaticon-up-right-arrow"></i></span>
+                                        </button>
+                                    </div>
+                                </div>
                             </form>
 
+                            <!-- Modern loader -->
+                            <div id="loaderContainer" class="loader-container">
+                                <div class="loader"></div>
+                            </div>
+
+                            <!-- Success message -->
+                            <div id="successMessage" class="message success">Your message has been sent successfully!
+                            </div>
+
+                            <!-- Error message -->
+                            <div id="errorMessage" class="message error">There was a problem sending your message.
+                                Please try again.</div>
+
+                            <script>
+                                document.addEventListener('DOMContentLoaded', function() {
+                                    const form = document.getElementById('contactForm');
+                                    const loaderContainer = document.getElementById('loaderContainer');
+                                    const successMessage = document.getElementById('successMessage');
+                                    const errorMessage = document.getElementById('errorMessage');
+                                    let isSubmitting = false;
+
+                                    form.addEventListener('submit', function(e) {
+                                        e.preventDefault();
+
+                                        // Prevent double submission
+                                        if (isSubmitting) {
+                                            console.log('Form is already being submitted');
+                                            return;
+                                        }
+
+                                        isSubmitting = true;
+
+                                        // Hide any existing messages
+                                        successMessage.style.display = 'none';
+                                        errorMessage.style.display = 'none';
+
+                                        // Show loading spinner
+                                        loaderContainer.style.display = 'flex';
+
+                                        // Simulate form submission
+                                        setTimeout(() => {
+                                            // Hide loading spinner
+                                            loaderContainer.style.display = 'none';
+
+                                            // Simulate successful submission
+                                            successMessage.style.display = 'block';
+                                            form.reset(); // Clear the form
+
+                                            // Reset submission flag
+                                            isSubmitting = false;
+                                        }, 2000); // Simulate a 2-second process
+
+                                        // Log form data (for debugging)
+                                        const formData = new FormData(form);
+                                        for (let [key, value] of formData.entries()) {
+                                            console.log(key, value);
+                                        }
+                                    });
+                                });
+                            </script>
                         </div>
-
                     </div><!-- /.col-lg-6 -->
-
                 </div><!-- /.row -->
-
             </div><!-- /.container -->
-
         </section><!-- /.contact-two -->
+
 
 
 
         <section class="google-map">
 
             <div class="google-map__contact">
-
-                <iframe title="template google map"
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                    class="map__contact" allowfullscreen></iframe>
-
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63821.19742895915!2d36.740349894853864!3d-1.2786446695377276!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f19f7e205e1d1%3A0x8ec37f283d52eb04!2sLavington%2C%20Nairobi!5e0!3m2!1sen!2ske!4v1729009751464!5m2!1sen!2ske"
+                    width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade">
+                </iframe>
             </div>
+
 
             <!-- /.google-map -->
 
@@ -743,11 +313,12 @@
 
                         <ul class="list-unstyled google-map__info__list">
 
-                            <li><i class="flaticon-pin"></i>Gregory Cartwright, 4059 Carling Avenue, Ugglebarnby</li>
+                            <li><i class="flaticon-pin"></i>Kenya, Nairobi, Lavington</li>
 
-                            <li><i class="flaticon-phone"></i><a href="tel:+61086660112">+6108-666-0112</a></li>
+                            <li><i class="flaticon-phone"></i><a href="tel:+61086660112">+254 712 787744</a></li>
 
-                            <li><i class="flaticon-email"></i><a href="mailto:info@gmail.com">info@gmail.com</a></li>
+                            <li><i class="flaticon-email"></i><a
+                                    href="mailto:info@inficoreHub.com">info@inficoreHub.com</a></li>
 
                         </ul>
 
@@ -760,554 +331,71 @@
         </section><!-- /.google-map -->
 
 
+        @include('footer')
 
-        <section class="mail-section mail-section--inner">
+        <!-- Sidebar One Start -->
 
-            <div class="container">
 
-                <div class="mail-section__inner  wow fadeInUp">
 
-                    <div class="mail-section__shape-one"
-                        style="background-image: url(assets/images/shapes/mail-shape-1.png);"></div>
+        <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
 
-                    <div class="mail-section__shape-two"
-                        style="background-image: url(assets/images/shapes/mail-shape-2.png);"></div>
+            <span class="scroll-to-top__text">back top</span>
 
-                    <div class="mail-section__shape-three"
-                        style="background-image: url(assets/images/shapes/mail-shape-3.png);"></div>
+            <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
 
-                    <div class="mail-section__shape-four"
-                        style="background-image: url(assets/images/shapes/mail-shape-4.png);"></div>
+        </a>
 
-                    <div class="row">
 
-                        <div class="col-lg-5 col-xl-6">
 
-                            <div class="mail-section__image">
 
-                                <img src="assets/images/resources/mail-1-1.png" alt="Growim">
 
-                            </div>
+        <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
 
-                        </div>
+        <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-                        <div class="col-lg-7 col-xl-6">
+        <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
 
-                            <div class="mail-section__form">
+        <script src="assets/vendors/jarallax/jarallax.min.js"></script>
 
-                                <h3 class="mail-section__form__title">Subscribe To Our Newsletter!</h3>
+        <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
 
-                                <form action="#" data-url="MAILCHIMP_FORM_URL" class="mc-form">
+        <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
 
-                                    <input type="text" name="EMAIL" placeholder="Enter Email Address">
+        <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
 
-                                    <button type="submit" class="flaticon-paper-plan">
+        <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
 
-                                        <span class="sr-only">submit</span><!-- /.sr-only -->
+        <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
 
-                                    </button>
+        <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
 
-                                </form><!-- /. mc-form -->
+        <script src="assets/vendors/nouislider/nouislider.min.js"></script>
 
-                                <div class="mc-form__response"></div><!-- /.mc-form__response -->
+        <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
 
-                            </div>
+        <script src="assets/vendors/wnumb/wNumb.min.js"></script>
 
-                        </div>
+        <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
 
-                    </div>
+        <script src="assets/vendors/wow/wow.js"></script>
 
-                </div>
+        <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
 
-            </div>
+        <script src="assets/vendors/isotope/isotope.js"></script>
 
-        </section>
+        <script src="assets/vendors/slick/slick.min.js"></script>
 
-        <footer class="main-footer main-footer--home-five">
+        <script src="assets/vendors/jquery-flipster-master/jquery.flipster.min.js"></script>
 
-            <div class="main-footer__bg" style="background-image: url(assets/images/shapes/footer-bg-1-1.png);"></div>
+        <script src="assets/vendors/countdown/countdown.min.js"></script>
 
-            <div class="main-footer__shape" style="background-image: url(assets/images/shapes/footer-1-shape-1.png);">
-            </div>
+        <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
 
-            <!-- /.main-footer__bg -->
+        <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
 
-            <div class="main-footer__top">
+        <!-- template js -->
 
-                <div class="container">
-
-                    <div class="row">
-
-                        <div class="col-md-6 col-xl-4">
-
-                            <div class="footer-widget footer-widget--about">
-
-                                <a href="index.html" class="footer-widget__logo">
-
-                                    <img src="assets/images/logo-light.png" width="160"
-                                        alt="Growim HTML Template">
-
-                                </a>
-
-                                <p class="footer-widget__text">
-
-                                    Nullam interdum libero vitae pretium aliquam donec nibh purus laoreet in ullamcorper
-                                    vel malesuada sit amet enim.
-
-                                </p>
-
-                                <a class="growim-btn growim-btn--white" href="contact.html">
-
-                                    <span class="growim-btn__text">Contact Us</span>
-
-                                </a>
-
-                                <div class="footer-widget__social">
-
-                                    <p class="footer-widget__social__text">Follow on</p>
-
-                                    <a href="https://facebook.com/">
-
-                                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Facebook</span>
-
-                                    </a>
-
-                                    <a href="https://twitter.com/">
-
-                                        <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Twitter</span>
-
-                                    </a>
-
-                                    <a href="https://www.linkedin.com/">
-
-                                        <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Linkedin</span>
-
-                                    </a>
-
-                                    <a href="https://youtube.com/">
-
-                                        <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                                        <span class="sr-only">Youtube</span>
-
-                                    </a>
-
-                                </div><!-- /.footer-widget__social -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-2">
-
-                            <div class="footer-widget">
-
-                                <h2 class="footer-widget__title">Quick Link</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__links">
-
-                                    <li><a href="about.html">Growim About</a></li>
-
-                                    <li><a href="contact.html">Contact Us</a></li>
-
-                                    <li><a href="blog-list-right.html">Blog & News</a></li>
-
-                                    <li><a href="faq.html">FAQ’S</a></li>
-
-                                    <li><a href="login.html">Login / Register</a></li>
-
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-2">
-
-                            <div class="footer-widget footer-widget--links">
-
-                                <h2 class="footer-widget__title">our services</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__links">
-
-                                    <li><a href="about.html">digital marketing</a></li>
-
-                                    <li><a href="contact.html">web development</a></li>
-
-                                    <li><a href="blog-list-right.html">SEO optimized</a></li>
-
-                                    <li><a href="faq.html">App Development</a></li>
-
-                                    <li><a href="login.html">Email Marketing</a></li>
-
-                                </ul><!-- /.list-unstyled footer-widget__links -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                        <div class="col-md-6 col-xl-4">
-
-                            <div class="footer-widget footer-widget--contact">
-
-                                <h2 class="footer-widget__title">contact us</h2><!-- /.footer-widget__title -->
-
-                                <ul class="list-unstyled footer-widget__info">
-
-                                    <li><i class="flaticon-pin"></i>Gregory Cartwright, 4059 Carling Avenue,
-                                        Ugglebarnby YO22 3NJ</li>
-
-                                    <li><i class="flaticon-phone"></i><a href="tel:+61086660112">+6108-666-0112</a>
-                                    </li>
-
-                                    <li><i class="flaticon-email"></i><a
-                                            href="mailto:info@gmail.com">info@gmail.com</a></li>
-
-                                </ul><!-- /.list-unstyled -->
-
-                            </div><!-- /.footer-widget -->
-
-                        </div><!-- /.col-md-6 -->
-
-                    </div><!-- /.row -->
-
-                </div><!-- /.container -->
-
-            </div><!-- /.main-footer__top -->
-
-            <div class="main-footer__bottom">
-
-                <div class="container">
-
-                    <div class="main-footer__bottom__inner">
-
-                        <p class="main-footer__copyright">
-
-                            &copy; Copyright <span class="dynamic-year"></span> by Growim HTML Template.
-
-                        </p>
-
-                        <ul class="main-footer__bottom__menu">
-
-                            <li><a href="checkout.html">Terms & Conditions</a></li>
-
-                            <li><a href="contact.html">Privacy Policy</a></li>
-
-                        </ul>
-
-                    </div><!-- /.main-footer__inner -->
-
-                </div><!-- /.container -->
-
-            </div><!-- /.main-footer__bottom -->
-
-        </footer><!-- /.main-footer -->
-
-
-
-    </div><!-- /.page-wrapper -->
-
-
-
-
-
-    <div class="mobile-nav__wrapper">
-
-        <div class="mobile-nav__overlay mobile-nav__toggler"></div>
-
-        <!-- /.mobile-nav__overlay -->
-
-        <div class="mobile-nav__content">
-
-            <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
-
-
-
-            <div class="logo-box">
-
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-light.png" width="155"
-                        alt="" /></a>
-
-            </div>
-
-            <!-- /.logo-box -->
-
-            <div class="mobile-nav__container"></div>
-
-            <!-- /.mobile-nav__container -->
-
-
-
-            <ul class="mobile-nav__contact list-unstyled">
-
-                <li>
-
-                    <i class="fa fa-envelope"></i>
-
-                    <a href="mailto:needhelp@growim.com">needhelp@growim.com</a>
-
-                </li>
-
-                <li>
-
-                    <i class="fa fa-phone-alt"></i>
-
-                    <a href="tel:666-888-0000">666 888 0000</a>
-
-                </li>
-
-            </ul><!-- /.mobile-nav__contact -->
-
-            <div class="mobile-nav__social">
-
-                <a href="https://facebook.com/">
-
-                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                    <span class="sr-only">Facebook</span>
-
-                </a>
-
-                <a href="https://twitter.com/">
-
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                    <span class="sr-only">Twitter</span>
-
-                </a>
-
-                <a href="https://www.linkedin.com/">
-
-                    <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                    <span class="sr-only">Linkedin</span>
-
-                </a>
-
-                <a href="https://youtube.com/">
-
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                    <span class="sr-only">Youtube</span>
-
-                </a>
-
-            </div><!-- /.mobile-nav__social -->
-
-        </div>
-
-        <!-- /.mobile-nav__content -->
-
-    </div>
-
-    <!-- /.mobile-nav__wrapper -->
-
-    <div class="search-popup">
-
-        <div class="search-popup__overlay search-toggler"></div>
-
-        <!-- /.search-popup__overlay -->
-
-        <div class="search-popup__content">
-
-            <form role="search" method="get" class="search-popup__form" action="#">
-
-                <input type="text" id="search" placeholder="Search Here..." />
-
-                <button type="submit" aria-label="search submit" class="growim-btn">
-
-                    <span class="growim-btn__text"><i class="flaticon-search"></i></span>
-
-                </button>
-
-            </form>
-
-        </div>
-
-        <!-- /.search-popup__content -->
-
-    </div>
-
-    <!-- /.search-popup -->
-
-    <!-- Sidebar One Start -->
-
-    <aside class="sidebar-one">
-
-        <div class="sidebar-one__overlay"></div><!-- /.siderbar-ovarlay -->
-
-        <div class="sidebar-one__content">
-
-            <div class="sidebar-one__close"><i class="flaticon-close"></i></div><!-- /.siderbar-close -->
-
-            <div class="sidebar-one__logo">
-
-                <a href="index.html" aria-label="logo image"><img src="assets/images/logo-2-light.png"
-                        alt="growim" width="160"></a>
-
-            </div><!-- /.sidebar-one__logo-box -->
-
-            <p class="sidebar-one__text">
-
-                Mauris ut enim sit amet lacus ornare ullamcor. Praesent placerat nequ
-
-                puru rhoncu tincidunt odio ultrices. Sed feugiat feugiat felis.
-
-            </p>
-
-            <h4 class="sidebar-one__title">Contact Info:</h4>
-
-            <ul class="sidebar-one__info">
-
-                <li>
-
-                    <span class="fas fa-map-marker-alt"></span>
-
-                    85 Ketch Harbour RoadBensalem, PA 19020
-
-                </li>
-
-                <li>
-
-                    <span class="fas fa-envelope"></span>
-
-                    <a href="mailto:needhelp@company.com">needhelp@company.com</a>
-
-                </li>
-
-                <li>
-
-                    <span class="fas fa-phone-alt"></span>
-
-                    <a href="tel:09969569535">099 695 695 35</a>
-
-                </li>
-
-            </ul>
-
-            <div class="sidebar-one__social">
-
-                <a href="https://facebook.com/">
-
-                    <i class="fab fa-facebook-f" aria-hidden="true"></i>
-
-                    <span class="sr-only">Facebook</span>
-
-                </a>
-
-                <a href="https://twitter.com/">
-
-                    <i class="fab fa-twitter" aria-hidden="true"></i>
-
-                    <span class="sr-only">Twitter</span>
-
-                </a>
-
-                <a href="https://www.linkedin.com/">
-
-                    <i class="fab fa-linkedin-in" aria-hidden="true"></i>
-
-                    <span class="sr-only">Linkedin</span>
-
-                </a>
-
-                <a href="https://youtube.com/">
-
-                    <i class="fab fa-youtube" aria-hidden="true"></i>
-
-                    <span class="sr-only">Youtube</span>
-
-                </a>
-
-            </div><!-- /sidebar-one__socila -->
-
-            <h4 class="sidebar-one__title">Newsletter:</h4>
-
-            <form action="#" data-url="MAILCHIMP_FORM_URL" class="sidebar-one__newsletter mc-form">
-
-                <input type="text" name="EMAIL" placeholder="Email address">
-
-                <button type="submit" class="flaticon-paper-plan">
-
-                    <span class="sr-only">submit</span><!-- /.sr-only -->
-
-                </button>
-
-            </form><!-- /.footer-widget__newsletter mc-form -->
-
-        </div><!-- /.sidebar__content -->
-
-    </aside>
-
-    <!-- Sidebar One Start -->
-
-
-
-    <a href="#" data-target="html" class="scroll-to-target scroll-to-top">
-
-        <span class="scroll-to-top__text">back top</span>
-
-        <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
-
-    </a>
-
-
-
-
-
-    <script src="assets/vendors/jquery/jquery-3.7.0.min.js"></script>
-
-    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-    <script src="assets/vendors/bootstrap-select/bootstrap-select.min.js"></script>
-
-    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
-
-    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
-
-    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
-
-    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
-
-    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
-
-    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
-
-    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
-
-    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
-
-    <script src="assets/vendors/tiny-slider/tiny-slider.js"></script>
-
-    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
-
-    <script src="assets/vendors/owl-carousel/js/owl.carousel.min.js"></script>
-
-    <script src="assets/vendors/wow/wow.js"></script>
-
-    <script src="assets/vendors/imagesloaded/imagesloaded.min.js"></script>
-
-    <script src="assets/vendors/isotope/isotope.js"></script>
-
-    <script src="assets/vendors/slick/slick.min.js"></script>
-
-    <script src="assets/vendors/jquery-flipster-master/jquery.flipster.min.js"></script>
-
-    <script src="assets/vendors/countdown/countdown.min.js"></script>
-
-    <script src="assets/vendors/jquery-circleType/jquery.circleType.js"></script>
-
-    <script src="assets/vendors/jquery-lettering/jquery.lettering.min.js"></script>
-
-    <!-- template js -->
-
-    <script src="assets/js/growim.js"></script>
+        <script src="assets/js/growim.js"></script>
 
 </body>
 
